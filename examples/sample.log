@@ -1,0 +1,6 @@
+2026-08-10 09:00:00 INFO Service started
+2026-08-10 09:01:12 INFO Health check passed
+2026-08-10 09:04:20 WARNING Response time exceeded threshold
+2026-08-10 09:05:01 ERROR Connection attempt failed
+2026-08-10 09:06:18 INFO Connection restored
+This line intentionally has an invalid format
